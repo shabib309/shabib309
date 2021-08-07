@@ -38,9 +38,8 @@
 ![PingPong uptime (last 30 days)](https://img.shields.io/pingpong/uptime/sp_e8f4732a0440423cb12c12044c8c939b?label=Uptime)
 ![Languages](https://img.shields.io/github/languages/count/shabib309/TxtFormatter?color=green&label=Languages)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shabib309&show_icons=true&hide_border=true&theme=gotham&count_private=true&include_all_commits=true&custom_title=Shabib´s GitHub Stats" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabib309&langs_count=10&layout=compact&theme=gotham&hide_border=true" />
-<!--<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=shabib309" />-->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shabib309&show_icons=true&hide_border=true&theme=gotham&count_private=true&include_all_commits=true&custom_title=Shabib´s GitHub Stats" />
 
 [website]: https://shabib.ddns.net
 [instagram]: https://instagram.com/maximilian.hxrn
