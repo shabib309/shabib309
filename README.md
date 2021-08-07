@@ -41,6 +41,12 @@
 <div>
    <img src="https://github-readme-stats.vercel.app/api?username=shabib309&show_icons=true&hide_border=true&theme=gotham&count_private=true&include_all_commits=true&custom_title=Shabib´s GitHub Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabib309&langs_count=10&layout=compact&theme=gotham&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabib309&repo=DiscordBot&theme=gotham&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabib309&repo=TxtFormatter&theme=gotham&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabib309&repo=TxtFormatter&theme=gotham&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabib309&repo=FieldAdder&theme=gotham&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabib309&repo=ToolSelector&theme=gotham&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabib309&repo=Website&theme=gotham&hide_border=true" />
 </div>
 
 [website]: https://shabib.ddns.net
