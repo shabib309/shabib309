@@ -1,4 +1,4 @@
-<img align="right" width="300px" src="http://shabib.ddns.net/images/pb.jpg" />
+<img align="right" width="300px" src="http://shabib.ddnss.eu/images/pb.jpg" />
 
 ### Hi there, I'm Max - aka [shabib][website] 👋
 
@@ -49,6 +49,6 @@
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabib309&repo=Website&theme=gotham&hide_border=true" />
 </div>
 
-[website]: https://shabib.ddns.net
+[website]: https://shabib.ddnss.eu
 [instagram]: https://instagram.com/maximilian.hxrn
 [linkedin]: https://www.linkedin.com/in/maximilian-horn-59a775201/
