@@ -46,7 +46,6 @@
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabib309&repo=TxtFormatter&theme=gotham&hide_border=true" />
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabib309&repo=FieldAdder&theme=gotham&hide_border=true" />
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabib309&repo=ToolSelector&theme=gotham&hide_border=true" />
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabib309&repo=Website&theme=gotham&hide_border=true" />
 </div>
 
 [website]: https://shabib.ddnss.eu
