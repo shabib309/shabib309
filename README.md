@@ -34,7 +34,7 @@
 <br />
 
 ### Stats:
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=green&up_message=online&url=http%3A%2F%2Fshabib.ddns.net)](http://shabib.ddns.net)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=green&up_message=online&url=http%3A%2F%2Fshabib.ddnss.eu)](http://shabib.ddnss.eu)
 ![PingPong uptime (last 30 days)](https://img.shields.io/pingpong/uptime/sp_e8f4732a0440423cb12c12044c8c939b?label=Uptime)
 ![Languages](https://img.shields.io/github/languages/count/shabib309/TxtFormatter?color=green&label=Languages)
 
