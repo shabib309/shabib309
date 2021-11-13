@@ -1,4 +1,4 @@
-<img align="right" width="300px" src="http://shabib.ddnss.eu/images/pb.jpg" />
+<img align="right" width="300px" src="http://maxhorn.ddnss.eu/images/pb.jpg" />
 
 ### Hi there, I'm Max - aka [shabib][website] 👋
 
@@ -34,7 +34,7 @@
 <br />
 
 ### Stats:
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=green&up_message=online&url=http%3A%2F%2Fshabib.ddnss.eu)](http://shabib.ddnss.eu)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Website&up_color=green&up_message=online&url=http%3A%2F%2Fmaxhorn.ddnss.eu)](http://maxhorn.ddnss.eu)
 ![PingPong uptime (last 30 days)](https://img.shields.io/pingpong/uptime/sp_e8f4732a0440423cb12c12044c8c939b?label=Uptime)
 ![Languages](https://img.shields.io/github/languages/count/shabib309/TxtFormatter?color=green&label=Languages)
 
@@ -48,6 +48,6 @@
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabib309&repo=ToolSelector&theme=gotham&hide_border=true" />
 </div>
 
-[website]: https://shabib.ddnss.eu
+[website]: https://maxhorn.ddnss.eu
 [instagram]: https://instagram.com/maximilian.hxrn
 [linkedin]: https://www.linkedin.com/in/maximilian-horn-59a775201/
