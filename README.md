@@ -6,8 +6,7 @@
 
 ## I'm a Student, Developer, Son and Gamer!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: 
+- 🥅 2022 Goals: 
    - Contribute more to Open Source projects
    - Learn HTML / CSS / PHP
 - ⚡ Fun fact: I have a brown belt in Karate
