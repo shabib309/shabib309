@@ -4,11 +4,11 @@
 
 
 
-## I'm a Student, Developer, Son and Gamer!
+## I'm a Developer, Son and Gamer!
 
 - 🥅 2022 Goals: 
    - Contribute more to Open Source projects
-   - Learn HTML / CSS / PHP
+   - Learn HTML / CSS / JS
 - ⚡ Fun fact: I have a brown belt in Karate
 
 ### Connect with me:
